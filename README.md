@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Pinee%20Perera&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20UI%2FUX%20Designer%20|%20AI-Powered%20System%20Developer&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,20&height=220&section=header&text=Pinee%20Perera&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20UI%2FUX%20Designer%20|%20AI-Powered%20System%20Developer&descAlignY=60&descAlign=50" />
 </p>
+
 
 # Hi 👋 I'm Pinee Perera
 
